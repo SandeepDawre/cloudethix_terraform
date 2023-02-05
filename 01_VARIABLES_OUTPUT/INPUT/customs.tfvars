@@ -1,0 +1,6 @@
+iam_user_name="automation"
+iam_user_path="/system/"
+ami_id="ami-0aa7d40eeae50c9a9"
+instance_type="t2.micro"
+sg_name="automation_sg"
+vpc_id="vpc-1bf43b66"
